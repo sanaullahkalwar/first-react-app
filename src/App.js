@@ -9,10 +9,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         SAnaullah kalwar
-        from Dist Ghotki</p>
-        <br><p>Graduated From the uni of sindh</p>
-        
-        <a
+        from Dist Ghotki<br><p> Educated From University of sindh</p>
+        </br>
+        </p>
+        <a  
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
