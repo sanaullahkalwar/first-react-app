@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         SAnaullah kalwar
+        from Dist Ghotki
         </p>
         <a
           className="App-link"
