@@ -8,6 +8,7 @@ function App() {
         SAnaullah kalwar
         from Dist Ghotki Educated From University of sindh
         </p>
+        <p><br>Second Assignment simpe react app and deplyed of on surge "freactapp.surge.sh"</br></p>
       
     </div>
   );
